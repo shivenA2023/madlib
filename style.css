@@ -1,0 +1,15 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: cursive;
+  color: rgb(62, 0, 143);
+  font-size: x-large;
+}
+html {
+  background-color: rgb(230, 141, 233);
+}
+
+button {
+  color: rgb(230, 141, 233);
+  background-color: rgb(62, 0, 143);
+}
